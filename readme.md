@@ -1,6 +1,9 @@
 # Cats and Dogs Classifier UI
 
 This repository contains a simple UI for classifying images into cats and dogs using a pre-trained model.
+
+Model has been trained using Tensoflow, Keras and Pandas on Google Colab.
+
 Training code here: [Link](https://colab.research.google.com/drive/1F4157biWuerZ5oC8BRr2LCtB_D5m4MM0?usp=sharing)
 
 ## Instructions for Running the UI
